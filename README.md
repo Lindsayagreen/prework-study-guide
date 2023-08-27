@@ -2,7 +2,7 @@
 
 ## Description 
 
-This is simple guide introducing the aspects of the 3 main web languages. I focused on the main terms and aspects of each language. This project was built for personal review as well as to add-on to as I gain more experience in coding. This website allows me to return to previous discussed topics to review and expand on in the future. I learned the basics of coding a webpage. It conatins notes on HTML, Css, Git, and JavaScript 
+This is simple guide introducing the aspects of the 3 main web languages. I focused on the main terms and aspects of each language. This project was built for personal review as well as to add-on to as I gain more experience in coding. This website allows me to return to previous discussed topics to review and expand on in the future. I learned the basics of coding a webpage. It contains notes on HTML, Css, Git, and JavaScript 
 
 ## Installation 
 
